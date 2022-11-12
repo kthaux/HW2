@@ -1,5 +1,22 @@
 # UnityHW2
 
+Lighting Update:
+
+Shaders:
+- Poiyomi Shader: https://github.com/poiyomi/PoiyomiToonShader
+
+Lights:
+- FireLight(Point Light)
+- Directional Light
+- Spot Light
+- Emmissive Material(Crystals)
+
+- Day and Night Cycle
+
+Particle System: campfire smoke, 2d texture emitter
+
+__________________________________________________________
+
 Scene: Deserted Island
 
 Type of objects: Mostly natural foliage and rocks
@@ -11,6 +28,7 @@ Main Character: Low Poly Warrior dude
 
 Skybox:
 - https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576
+
 
 Objects:
 
@@ -25,6 +43,8 @@ Rocks:
 - Stonehenge_2C_04
 - Crystals_l_2C_05
 - Crystals_l_2C_02
+- Crystals_l_05
+- Crystals_l_01
 - Brick_Pile_s_2C_04
 - https://assetstore.unity.com/packages/3d/environments/low-poly-rocks-pack-70164
 
